@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Overview",
+        "icon": "bi bi-graph-up-arrow",
+        "childrens": []
+    },
+    {
+        "title": "Chains",
+        "icon": "bi bi-link-45deg",
+        "childrens": []
+    },
+    {
+        "title": "Roundup",
+        "icon": "bi bi-newspaper",
+        "childrens": []
+    },
+    {
+        "title": "Wiki",
+        "icon": "bi bi-book",
+        "childrens": []
+    },
+    {
+        "title": "Airdrops",
+        "icon": "bi bi-cloud-drizzle",
+        "childrens": []
+    },
+    {
+        "title": "Oracles",
+        "icon": "bi bi-shield",
+        "childrens": []
+    },
+    {
+        "title": "Forks",
+        "icon": "bi bi-share",
+        "childrens": []
+    },
+    {
+        "title": "Stablecoins",
+        "icon": "bi bi-cash-coin",
+        "childrens": []
+    },
+    {
+        "title": "Watchlist",
+        "icon": "bi bi-bookmark",
+        "childrens": []
+    },
+    {
+        "title": "Top Protocols",
+        "icon": "bi bi-map",
+        "childrens": []
+    },
+    {
+        "title": "Categories",
+        "icon": "bi bi-arrow-repeat",
+        "childrens": []
+    },
+    {
+        "title": "Recent",
+        "icon": "bi bi-clock",
+        "childrens": []
+    },
+    {
+        "title": "Comparison",
+        "icon": "bi bi-arrows-angle-contract",
+        "childrens": []
+    },
+    {
+        "title": "Language",
+        "icon": "bi bi-code",
+        "childrens": []
+    },
+    {
+        "title": "Chainlist",
+        "icon": "bi bi-list-ul",
+        "childrens": []
+    },
+    {
+        "title": "About",
+        "icon": "bi bi-question-circle",
+        "childrens": []
+    },
+    {
+        "title": "Twitter",
+        "path": "/support"
+    },
+    {
+        "title": "Discord",
+        "path": "/report-bug"
+    },
+    {
+        "title": "Daily News",
+        "path": "/Daily-News"
+    },
+    {
+        "title": "Donate",
+        "path": "/Donate"
+    },
+    {
+        "title": "Press / Media",
+        "path": "/Press-/-Media"
+    },
+    {
+        "title": "API Docs",
+        "path": "/API-Docs"
+    },
+    {
+        "title": "List Your Project",
+        "path": "/List-Your-Project"
+    },
+    {
+        "title": "Download Data",
+        "path": "/Download-Data"
+    }
+]
